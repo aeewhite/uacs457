@@ -19,7 +19,7 @@ Grade Breakdown:
 - 40% 6-8 assignments
 - Written Assignments are Pass/Fail
 
-**Dr. Vrbsky reserves the right to make announcments in class that may not
+**Dr. Vrbsky reserves the right to make announcements in class that may not
 appear on the course site.**
 
 2 "Slip Days", calendar days, are given for students for assignments.
@@ -96,9 +96,9 @@ Types of **Data Models**
 ### Data Languages
 
 - DDL
-	- Data Defintion Language
+	- Data Definition Language
 - DML
-	- Data Manipulation Languge
+	- Data Manipulation Language
 - SQL
 	- Structured Query Language.
 	- Combines both DDL and DML.
