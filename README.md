@@ -1,11 +1,13 @@
 # Database Management Systems
 ## CS 457
 
-This repository and the notes contained therin are not sponsored by the approved by the University of Alabama.
+This repository and the notes contained therin are not sponsored or approved
+ approved by the University of Alabama.
 
 ### Contibuting
 
-Feel free to contact [me](mailto:jazarobsky@crimson.ua.edu) for pull requests or to be listed as a contributor.
+Feel free to contact [me](mailto:jazarobsky@crimson.ua.edu) for pull
+ requests or to be listed as a contributor.
 
 ### License
 
